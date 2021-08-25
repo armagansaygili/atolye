@@ -1,0 +1,27 @@
+﻿[kAdiTbx]
+Visible=True
+LayerNames=
+
+[sifreTbx]
+Visible=True
+LayerNames=
+
+[cikis]
+Visible=True
+LayerNames=
+
+[giris]
+Visible=True
+LayerNames=
+
+[sifreLbl]
+Visible=True
+LayerNames=
+
+[kAdiLbl]
+Visible=True
+LayerNames=
+
+[Module Settings]
+ModelLayerNames=aasdasd;was
+

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.759,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\randevuForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\musteriEkle.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.371,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\ucretListesi.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personelEkle.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\atolye.dproj=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\musteriAra.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimEtmeForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimEtmeForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\musteriEkle.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimEtmeForm.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaeForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\anaForm.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaeForm.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\randevuForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personel.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.371,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\ucretListesi.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\musteriAra.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personel.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personel.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\giris.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\sifreDegis.pas=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\ucretListesi.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\personelEkle.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaeForm.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\anaForm.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\giris.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimEtmeForm.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\teslimAlmaeForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\armsa\Documents\Embarcadero\Studio\Projects\sifreDegis.dfm=C:\Users\armsa\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="anaForm.pas"/>
+    <File Path="anaForm.dfm"/>
+    <File Path="giris.pas"/>
+    <File Path="giris.dfm"/>
+    <File Path="musteriAra.pas"/>
+    <File Path="musteriAra.dfm"/>
+    <File Path="musteriEkle.pas"/>
+    <File Path="musteriEkle.dfm"/>
+    <File Path="personel.pas"/>
+    <File Path="personel.dfm"/>
+    <File Path="personelEkle.pas"/>
+    <File Path="personelEkle.dfm"/>
+    <File Path="randevuForm.pas"/>
+    <File Path="randevuForm.dfm"/>
+    <File Path="sifreDegis.pas"/>
+    <File Path="sifreDegis.dfm"/>
+    <File Path="teslimAlmaForm.pas"/>
+    <File Path="teslimAlmaForm.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
